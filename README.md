@@ -1,6 +1,6 @@
 # Pig Game
 
-A Javascript Dice Roll Game by Jonas Schmedtmann Udemy Course 
+A Dice Roll Game Built with Javascript by Jonas Schmedtmann Complete Javascript Udemy Course
 
 <img src="https://user-images.githubusercontent.com/88436030/144928335-5c32818e-6960-40ee-a011-d0d523832a26.PNG" style="width= 400px"/>
 
